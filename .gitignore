@@ -3,7 +3,6 @@
 *.jpg
 *.png
 *.zip
-*.pyc
-*.log
-*.lock
-*.pyc
+*.pth
+*.pkl
+/home/drasogun/DraSoGun/Super-AI/Track-Vision/dog-breed-identification.zip
