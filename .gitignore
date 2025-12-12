@@ -1,1 +1,9 @@
 *.csv
+*.pdf
+*.jpg
+*.png
+*.zip
+*.pyc
+*.log
+*.lock
+*.pyc
