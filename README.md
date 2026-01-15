@@ -2,7 +2,7 @@
 
 This is a repository for beginning learning AI in preparation for participating in Super AI season 6.
 
-## Hackathon
+## Competitions
 
 [Heart Disease Prediction](https://www.kaggle.com/competitions/hearth-disease-recognition)
 
